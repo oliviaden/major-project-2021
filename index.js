@@ -76,7 +76,7 @@ function init(){
     for (let i = 0; i < 11; i++){
         const radius = getRandomInt(5, 35);
         const xpos = getRandomInt(5, 195);
-        const color = i % 2 === 0 ? "#FF0000":"#00FF00";
+        const color = i % 2 === 0 ? "#C9E5FF":"#1F5DBC";
         const circle = new Circle (color, radius, xpos);
         circles.push(circle);
     }
