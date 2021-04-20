@@ -1,0 +1,20 @@
+body {
+    background-color: #14363F;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    color: #39E5FF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+
+  li{
+    color: lightcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+  }
